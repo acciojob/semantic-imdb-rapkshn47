@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+a{
+	text-decoration: none;
+	
+}
+h2{
+	text-decoration: underline;
+}
+.nav-bar{
+	background-color: #c9c7c7;
+	padding: 4px;
+	text-align: center;
+}
